@@ -1,4 +1,4 @@
-# SmartsChallenge
+# Dashboard Incorporadora
 Resolução do desafio da Smarts de projetar uma API REST que filtra e ordena dados
 de contatos de uma incorporadora e apresentá-los em um front-end de uma SPA (Single Page Application).
 
